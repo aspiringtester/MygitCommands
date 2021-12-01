@@ -1,0 +1,5 @@
+This is my first website.
+I am using html, css, javascript.
+I am using php and MYSQLI AT BACKEND.
+we will have a login page.
+We will have a registration page.
